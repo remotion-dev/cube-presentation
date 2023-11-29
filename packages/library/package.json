@@ -1,5 +1,12 @@
 {
-  "name": "my-library",
+  "name": "@remotion-dev/cube-presentation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remotion-dev/cube-presentation.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "version": "0.0.1",
   "description": "Example react hook for use in remotion to get current second.",
   "main": "./dist/index.js",
@@ -20,8 +27,5 @@
     "remotion": "^4.0.75",
     "@remotion/transitions": "^4.0.75",
     "react": "^18.2.0"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
