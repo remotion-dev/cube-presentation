@@ -8,7 +8,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "version": "0.0.1",
-  "description": "A presentation that can be used within a Remotion transition.",
+  "description": "A presentation to be use within the @remotion/transitions package",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

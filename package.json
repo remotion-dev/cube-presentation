@@ -1,12 +1,8 @@
 {
-  "name": "library-starter",
-  "description": "Turborepo template that makes it easy to develop a library in the Remotion ecosystem with the best practices applied out of the box",
-  "author": {
-    "name": "Mohit Yadav",
-    "email": "yo@mohitya.dev",
-    "url": "https://mohitya.dev/",
-    "github": "https://github.com/Just-Moh-it/"
-  },
+  "name": "cube-presentation-repo",
+  "description": "A presentation to be use within the @remotion/transitions package",
+  "author": "Jonny Burger",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "build": "turbo run build",
