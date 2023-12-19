@@ -2,7 +2,7 @@
 
 This cube presentation can be used with the `<TransitionSeries.Transition>` component from the `@remotion/transitions` package, to create a 3D cube transition.
 
-Control the cube rotation and the perspective on the cube via `direction` and `perspective` properties of the cube API.
+Control the cube rotation and the perspective on the cube via `direction` and `perspective` properties of the `cube()` function.
 
 Customize the presentation to your liking by directly manipulating the provided source code.
 

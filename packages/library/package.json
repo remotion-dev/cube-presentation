@@ -4,11 +4,13 @@
     "type": "git",
     "url": "git+https://github.com/remotion-dev/cube-presentation.git"
   },
+  "license": "UNLICENSED",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "version": "0.0.1",
-  "description": "A presentation to be use within the @remotion/transitions package",
+  "version": "1.0.0",
+  "description": "A presentation to be used with the @remotion/transitions package",
+  "author": "Jonny Burger",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

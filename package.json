@@ -1,6 +1,6 @@
 {
   "name": "cube-presentation-repo",
-  "description": "A presentation to be use within the @remotion/transitions package",
+  "description": "A presentation to be use with the @remotion/transitions package",
   "author": "Jonny Burger",
   "license": "MIT",
   "private": true,
