@@ -21,13 +21,13 @@
   },
   "peerDependencies": {
     "remotion": "*",
-    "@remotion/transitions": "^4.0.75",
+    "@remotion/transitions": "^4.0.84",
     "react": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.38",
-    "remotion": "^4.0.75",
-    "@remotion/transitions": "^4.0.75",
+    "remotion": "^4.0.84",
+    "@remotion/transitions": "^4.0.84",
     "react": "^18.2.0"
   }
 }
