@@ -1,5 +1,5 @@
 import { Composition } from "remotion";
-import Example from "./Example";
+import Example, { schema } from "./Example";
 
 const Root = () => {
   return (
@@ -11,6 +11,10 @@ const Root = () => {
         fps={30}
         height={1080}
         width={1920}
+        schema={schema}
+        defaultProps={{
+          direction: "from-left",
+        }}
       />
     </>
   );
