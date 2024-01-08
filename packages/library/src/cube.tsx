@@ -5,8 +5,14 @@ import type {
 } from "@remotion/transitions";
 import { AbsoluteFill, interpolate } from "remotion";
 
+export type CubeDirection =
+  | "from-left"
+  | "from-right"
+  | "from-top"
+  | "from-bottom";
+
 type CubePresentationProps = {
-  direction: "from-left" | "from-right" | "from-top" | "from-bottom";
+  direction: CubeDirection;
   perspective?: number;
 };
 
