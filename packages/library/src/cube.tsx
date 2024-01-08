@@ -1,4 +1,3 @@
-/* eslint-disable complexity */
 import { useMemo } from "react";
 import type {
   TransitionPresentationComponentProps,
@@ -19,6 +18,7 @@ const Cube: React.FC<
   presentationProgress,
   passedProps: { perspective = 1000, ...passedProps },
 }) => {
+  // eslint-disable-next-line complexity
   const style: React.CSSProperties = useMemo(() => {
     const startRotationEntering =
       passedProps.direction === "from-right" ||

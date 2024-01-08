@@ -40,6 +40,7 @@ export const Letter: React.FC<{
         borderRadius,
         WebkitBackfaceVisibility: "hidden",
         fontVariationSettings: `"wght" ${weight}, "wdth" ${wdth}`,
+        fontFamily: "sans-serif",
       }}
     >
       {letter}
