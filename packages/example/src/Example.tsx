@@ -1,5 +1,5 @@
 import { TransitionSeries, linearTiming } from "@remotion/transitions";
-import { cube } from "my-library";
+import { cube } from "@remotion-dev/cube-presentation";
 import { Letter } from "./Letter";
 
 export const BLUE = "#1B9CFC";
