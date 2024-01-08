@@ -8,7 +8,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A presentation to be used with the @remotion/transitions package",
   "author": "Jonny Burger",
   "main": "./dist/index.js",
