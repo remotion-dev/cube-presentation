@@ -48,7 +48,7 @@ The `cube()` function does take an object with the following properties:
 One of `from-left`, `from-right`, `from-top`, `from-bottom`.
 
 ```tsx
-import { CubeDirection } from "@remotion-dev/cube-transition";
+import { CubeDirection } from "@remotion-dev/cube-presentation";
 
 const flipDirection: CubeDirection = "from-left";
 ```
