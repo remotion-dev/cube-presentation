@@ -4,7 +4,7 @@
     "type": "git",
     "url": "git+https://github.com/remotion-dev/cube-presentation.git"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },

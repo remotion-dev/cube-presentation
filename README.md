@@ -8,7 +8,7 @@ Customize the presentation to your liking by directly manipulating the provided 
 
 ## How to access the code
 
-You use the link provided on [remotion.pro/cube-transition](https://www.remotion.pro/cube-transition) to install it via npm, or you can simply copy the source code from `packages/library/src/cube.tsx`.
+The source code is freely available on [GitHub](https://github.com/remotion-dev/cube-presentation). Copy `packages/library/src/cube.tsx` into your project, or use the free installation link on [remotion.pro/store/cube-transition](https://www.remotion.pro/store/cube-transition).
 
 ## How to use it
 
@@ -59,8 +59,6 @@ The CSS `perspective` of the flip animation. Defaults to `1000`.
 
 ## License
 
-Notice that for some entities a company license is needed. Read [the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+This project is open source under the [MIT License](LICENSE). No purchase is required.
 
-You may only use this presentation if you licensed it on [remotion.pro](https://www.remotion.pro).
-
-It is forbidden to redistribute the source code of this project.
+The Remotion dependencies are licensed separately. See the [Remotion license](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md) for their terms.
