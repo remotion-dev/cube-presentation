@@ -59,6 +59,6 @@ The CSS `perspective` of the flip animation. Defaults to `1000`.
 
 ## License
 
-This project is open source under the [MIT License](../../LICENSE). No purchase is required.
+This project is open source under the [MIT License](../../LICENSE.md). No purchase is required.
 
 The Remotion dependencies are licensed separately. See the [Remotion license](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md) for their terms.
